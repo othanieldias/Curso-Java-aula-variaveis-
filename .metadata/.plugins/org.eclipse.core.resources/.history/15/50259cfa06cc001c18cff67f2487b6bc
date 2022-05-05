@@ -1,0 +1,28 @@
+package Fundamentos;
+// classe - bloco de codigo
+
+public class HelloWord {
+	
+// metodo de inicializacao
+	// metodo é toda a lógica da programação
+	
+	public static void main(String[] args ) {
+		
+		// Variaveis - é onde eu armazeno valores
+		// Sistema de cadastro de alunos
+			
+		// String = texto ou caracter especial
+		// int = numero inteiro		
+		// double = numero fracionado
+		// boulean = V ou F
+		// float = numeros fracionados
+		
+		
+		string aluno;
+		int serie;
+		turma;
+		turno;
+		
+	}
+	
+}
